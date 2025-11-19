@@ -1,0 +1,7 @@
+
+inventario = []
+
+
+
+agregar()
+mostar(inventario)
