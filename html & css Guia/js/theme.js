@@ -1,3 +1,4 @@
+// Toggle tema oscuro/claro
 const themeToggle = document.getElementById('theme-toggle');
 const body = document.body;
 
